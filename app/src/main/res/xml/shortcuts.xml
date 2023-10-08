@@ -45,7 +45,7 @@
 
     <shortcut
         android:enabled="false"
-        android:shortcutId="jewelery"
+        android:shortcutId="jewelry"
         android:shortcutShortLabel="@string/jewelery_short_label_shortcut">
         <capability-binding android:key="actions.intent.OPEN_APP_FEATURE">
             <parameter-binding
